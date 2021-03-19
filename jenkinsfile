@@ -1,6 +1,6 @@
 node {
     stage('Clone code') {
-        git 'https://github.com/jiten228/libraryAutomation.git'
+        git 'https://github.com/jiten228/Simple-Project-jenkins-Pipeline.git'
     }
         
     stage('Run tests'){
